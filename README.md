@@ -1,4 +1,5 @@
 # NH_Karteikarten_Mathe
+App um sich aus verschiedenen Gebieten der Mathematik individuell ein Karteikartenset zusammenstellen zu lassen.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
